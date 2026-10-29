@@ -48,7 +48,17 @@ SafeCross is an assistive pedestrian crossing prototype designed to improve acce
 3. The beep rate increases during the final five seconds.
 4. The ultrasonic sensor checks for a pedestrian remaining in the crossing area.
 5. If the pedestrian is still detected at the end of the interval, the controller extends the time according to the implemented logic.
-6. The tactile wheel communicates traffic movement through rotation or a stationary state.
+6. The tactile wheel communicates traffic movement through rotation or a stationary state. 
+
+
+## Prototype
+
+The following photographs show the physical SafeCross prototype, including the modeled pedestrian crossing, embedded controller, sensor setup, traffic signal indicators, and tactile feedback mechanism.
+
+| Prototype View | Demonstration |
+|---|---|
+| ![SafeCross prototype view 1](Prototype%20Image%201.jpeg) | ![SafeCross prototype view 2](Prototype%20Image%202.jpeg) |
+
 
 ## Future Enhancements
 
