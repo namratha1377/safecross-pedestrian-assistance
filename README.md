@@ -80,4 +80,4 @@ SafeCross is an academic prototype and has not been established as a certified r
 
 ## Acknowledgements
 
-Developed as an academic project at the National Institute of Engineering, Mysuru.
+Developed as an academic project
