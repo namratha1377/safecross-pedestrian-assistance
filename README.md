@@ -78,10 +78,6 @@ Hardware prototype developed. Real-time monitoring dashboard is an ongoing enhan
 
 SafeCross is an academic prototype and has not been established as a certified road-safety system. Further testing and validation would be required before real-world deployment.
 
-## Contributors
-
-Add the names of the project contributors here.
-
 ## Acknowledgements
 
 Developed as an academic project at the National Institute of Engineering, Mysuru.
